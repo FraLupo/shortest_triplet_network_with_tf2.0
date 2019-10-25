@@ -87,4 +87,4 @@ for label in test_class_labels:
 
 plt.show()
 ```
-
+![PCA](https://raw.githubusercontent.com/FraLupo/shortest_triplet_network_with_tf2.0/master/PCA_of_embeddings.png)
